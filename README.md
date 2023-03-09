@@ -1,5 +1,5 @@
 ## Hi, I'm Graham.
-Im a developer mostly focused on the web. 
+Im a developer mostly doing web things. 
 
 I like learning new things and solving interesting problems.<br>
 Right now Im focused a lot on Typescript/React/Nextjs.
